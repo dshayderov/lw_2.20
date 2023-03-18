@@ -1,0 +1,1 @@
+select max(length(city)) from city;
